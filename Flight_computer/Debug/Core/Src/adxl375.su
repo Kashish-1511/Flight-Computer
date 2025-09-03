@@ -1,0 +1,2 @@
+../Core/Src/adxl375.c:16:19:ADXL375_Init	40	static
+../Core/Src/adxl375.c:30:6:ADXL375_ReadAccel	40	static

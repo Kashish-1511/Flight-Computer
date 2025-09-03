@@ -1,0 +1,4 @@
+../Core/Src/GY63.c:12:17:GY63_ReadADC	1
+../Core/Src/GY63.c:18:19:GY63_Init	5
+../Core/Src/GY63.c:41:19:GY63_Read	3
+../Core/Src/GY63.c:62:6:GY63_Convert	6

@@ -1,0 +1,9 @@
+../Core/Src/sd.c:27:6:SD_Select	1
+../Core/Src/sd.c:31:6:SD_Deselect	1
+../Core/Src/sd.c:35:9:SD_SPI_TxRx	1
+../Core/Src/sd.c:41:6:SD_DetectCard	5
+../Core/Src/sd.c:80:6:SD_Init	18
+../Core/Src/sd.c:185:6:SD_WriteBlock	7
+../Core/Src/sd.c:240:6:SD_ReadBlock	8
+../Core/Src/sd.c:296:6:LogLineToSD	2
+../Core/Src/sd.c:310:6:ReadSDCardAndSendViaUSART2	2

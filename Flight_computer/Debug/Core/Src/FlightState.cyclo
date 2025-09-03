@@ -1,0 +1,4 @@
+../Core/Src/FlightState.c:6:13:reset_counters	2
+../Core/Src/FlightState.c:11:13:change_state	2
+../Core/Src/FlightState.c:21:6:flight_fsm_init	1
+../Core/Src/FlightState.c:28:6:flight_fsm_update	17
